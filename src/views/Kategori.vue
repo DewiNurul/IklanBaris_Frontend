@@ -9,7 +9,7 @@
 						<div class="col-lg-3 col-md-3 col-sm-6">
 							<div class="f_p_item">
 								<div class="f_p_img">
-									<img class="img-fluid" src="img/product/feature-product/f-p-1.jpg" alt="">
+									<img class="img-fluid" src="assets/img/product/feature-product/f-p-1.jpg" alt="">
 									<div class="p_icon">
 										<a href="#">
 											<i class="lnr lnr-heart"></i>
@@ -28,7 +28,7 @@
 						<div class="col-lg-3 col-md-3 col-sm-6">
 							<div class="f_p_item">
 								<div class="f_p_img">
-									<img class="img-fluid" src="img/product/feature-product/f-p-2.jpg" alt="">
+									<img class="img-fluid" src="assets/img/product/feature-product/f-p-2.jpg" alt="">
 									<div class="p_icon">
 										<a href="#">
 											<i class="lnr lnr-heart"></i>
@@ -47,7 +47,7 @@
 						<div class="col-lg-3 col-md-3 col-sm-6">
 							<div class="f_p_item">
 								<div class="f_p_img">
-									<img class="img-fluid" src="img/product/feature-product/f-p-3.jpg" alt="">
+									<img class="img-fluid" src="assets/img/product/feature-product/f-p-3.jpg" alt="">
 									<div class="p_icon">
 										<a href="#">
 											<i class="lnr lnr-heart"></i>
@@ -66,7 +66,7 @@
 						<div class="col-lg-3 col-md-3 col-sm-6">
 							<div class="f_p_item">
 								<div class="f_p_img">
-									<img class="img-fluid" src="img/product/feature-product/f-p-4.jpg" alt="">
+									<img class="img-fluid" src="assets/img/product/feature-product/f-p-4.jpg" alt="">
 									<div class="p_icon">
 										<a href="#">
 											<i class="lnr lnr-heart"></i>
@@ -85,7 +85,7 @@
 						<div class="col-lg-3 col-md-3 col-sm-6">
 							<div class="f_p_item">
 								<div class="f_p_img">
-									<img class="img-fluid" src="img/product/feature-product/f-p-5.jpg" alt="">
+									<img class="img-fluid" src="assets/img/product/feature-product/f-p-5.jpg" alt="">
 									<div class="p_icon">
 										<a href="#">
 											<i class="lnr lnr-heart"></i>
@@ -104,7 +104,7 @@
 						<div class="col-lg-3 col-md-3 col-sm-6">
 							<div class="f_p_item">
 								<div class="f_p_img">
-									<img class="img-fluid" src="img/product/feature-product/f-p-4.jpg" alt="">
+									<img class="img-fluid" src="assets/img/product/feature-product/f-p-4.jpg" alt="">
 									<div class="p_icon">
 										<a href="#">
 											<i class="lnr lnr-heart"></i>
@@ -123,7 +123,7 @@
 						<div class="col-lg-3 col-md-3 col-sm-6">
 							<div class="f_p_item">
 								<div class="f_p_img">
-									<img class="img-fluid" src="img/product/feature-product/f-p-3.jpg" alt="">
+									<img class="img-fluid" src="assets/img/product/feature-product/f-p-3.jpg" alt="">
 									<div class="p_icon">
 										<a href="#">
 											<i class="lnr lnr-heart"></i>
@@ -142,7 +142,7 @@
 						<div class="col-lg-3 col-md-3 col-sm-6">
 							<div class="f_p_item">
 								<div class="f_p_img">
-									<img class="img-fluid" src="img/product/feature-product/f-p-4.jpg" alt="">
+									<img class="img-fluid" src="assets/img/product/feature-product/f-p-4.jpg" alt="">
 									<div class="p_icon">
 										<a href="#">
 											<i class="lnr lnr-heart"></i>
