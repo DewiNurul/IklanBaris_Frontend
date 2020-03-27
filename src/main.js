@@ -11,7 +11,7 @@ Vue.use(BootstrapVue)
 Vue.use(VueCookies)
 Vue.use(VueAxios, axios)
 Vue.config.productionTip = false
-axios.defaults.baseURL = 'http://localhost:8000/api' //ip laravelnya ganti krn yg 8000 sudah dipakai VUE UI
+axios.defaults.baseURL = 'http://localhost:8000/api' 
 const token = localStorage.getItem('Authorization')
 if (token) {
   Vue.prototype.$http.defaults.headers.common['Authorization'] = token

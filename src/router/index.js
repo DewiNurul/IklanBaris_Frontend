@@ -8,6 +8,7 @@ import Login from '../views/Login.vue'
 import Jual from '../views/Jual.vue'
 import Kategori from '../views/Kategori.vue'
 import DetailBarang from '../views/DetailBarang.vue'
+import IklanSaya from '../views/IklanSaya.vue'
 
 Vue.use(VueRouter)
 
@@ -60,10 +61,15 @@ const routes = [
       requiresAuth: true
     }
   },
+  {
+    path: '/iklan_saya',
+    name: 'iklan_saya',
+    components: {default: IklanSaya, header: Navbar},
+    meta: { 
+      requiresAuth: true
+    }
+  },
 
-
-  
- 
 ]
 
 const router = new VueRouter({

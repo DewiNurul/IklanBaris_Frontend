@@ -9,7 +9,7 @@
 						<h3>REGISTRASI</h3>
 						<form v-on:submit.prevent="Register" class="row login_form" method="post" id="contactForm" novalidate="novalidate">
 							<div class="col-md-12 form-group">
-								<input v-model="nama" type="text" class="form-control" id="username" name="username" placeholder="Username">
+								<input v-model="nama" type="text" class="form-control" id="nama" name="nama" placeholder="Username">
 							</div>
 							<div class="col-md-12 form-group">
 								<input v-model="email" type="email" class="form-control" id="email" name="email" placeholder="Email">

@@ -43,8 +43,10 @@
 						<div class="row w-100">
 							<div class="col-lg-7 pr-0">
 								<ul class="nav navbar-nav center_nav pull-right">
-									<li class="nav-item active">
-										<a class="nav-link" href="/">Home</a>
+									<li class="nav-item">
+										 <router-link to="/" class="nav-link">
+												Home
+									     </router-link>
 									</li>
 
 									<li class="nav-item submenu dropdown">
@@ -59,7 +61,10 @@
 									</li>
 
 									<li class="nav-item">
-										<a class="nav-link" href="/">Iklan Saya</a>
+										 <router-link to="/iklan_saya" class="nav-link">
+												Iklan Saya
+										 </router-link>
+										<!-- <a class="nav-link" href="/iklan_saya">Iklan Saya</a> -->
 									</li>
 
 								</ul>

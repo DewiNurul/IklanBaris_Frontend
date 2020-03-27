@@ -10,13 +10,13 @@
                 </div>
                 </div>
 
-<!--                 
+            <!--                 
              <b-modal 
                  id="modalBarang"
                  @ok="Save"
              > -->
                 <div class="col-lg-7">
-                    <form class="row contact_form" action="contact_process.php" method="post" id="contactForm" novalidate="novalidate">
+                    <form class="row contact_form" method="post" id="contactForm" novalidate="novalidate">
                         <div class="col-md-12">
                             <div class="form-group">
                                 <label for="judul_iklan" class="col-form-label">Judul Iklan</label>
